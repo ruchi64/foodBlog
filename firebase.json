@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "foodBlog",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
