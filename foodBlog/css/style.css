@@ -459,6 +459,13 @@ button:focus{
 	bottom: 0px;
 }
 
+.card-title {
+	font-size: 20px;
+	font-weight: 500;
+    font-family: 'Arbutus Slab', serif;
+    text-align: center;
+    padding-top: 5px;
+}
 
 /*------------------------------------------------------------------
     Gallery
@@ -918,6 +925,11 @@ button:focus{
 	color: #ffffff;
 	background-color: #cfa671;
 	border-color: #cfa671;
+}
+.btn.btn-clear-yellow {
+    color: #cfa671;
+	background-color: #ffffff;
+	background-image: none;
 }
 .blog-box{
 	padding: 70px 0px;
